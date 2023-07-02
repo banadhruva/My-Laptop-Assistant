@@ -29,7 +29,7 @@ def wishme():
     else :
         speak("Good Evening!")
        
-    speak("Namaskaram ! Hey there, what can i do for you")
+    speak(" Hey there, what can i do for you")
 
 
 def takeCommand(): 
